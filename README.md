@@ -5,7 +5,7 @@ Trabalho desenvolvido no Bootcamp GoStack da Rocketseat, tem como objetivo armaz
 Para executar você deve:
 
 <strong>Clonar este repositório</strong><br/>
-$ https://github.com/denisesleite/nodejs-solid.git
+$ git clone https://github.com/denisesleite/nodejs-solid.git
 
 <strong>Instalar suas dependências</strong><br/>
 $ yarn
